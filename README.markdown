@@ -1,3 +1,7 @@
+#Ruby on Rails Tutorial: Gabriels first application
+
+This is the first application for [*Gabriel]
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
